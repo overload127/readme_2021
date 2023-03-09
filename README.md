@@ -6,11 +6,6 @@
   - [Install backend as debug 🔨](#install-backend-as-debug-)
   - [Run backend as debug ▶️](#run-backend-as-debug-)
   - [Deploy backend on production server with caddy 🔨](#deploy-backend-on-production-server-with-caddy-)
-- [Client nodejs react web](#client-nodejs-react-web)
-  - [Install yarn 🔨](#install-yarn-)
-  - [Install web client as debug 🔨](#install-web-client-as-debug-)
-  - [Run web client as debug ▶️](#run-web-client-as-debug-)
-  - [Deploy backend on production server with caddy 🔨](#Deploy-web-client-on-production-server-with-caddy-)
 
 ## Server python
 
